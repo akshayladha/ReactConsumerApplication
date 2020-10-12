@@ -9,7 +9,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.2",
-    "web-components-library-akshay-test": "^0.0.4"
+    "web-components-library-akshay-test": "^0.0.6"
   },
   "scripts": {
     "start": "react-scripts start",

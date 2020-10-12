@@ -1,11 +1,11 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import * as akshay from 'web-components-library-akshay-test/src/demo/index';
+import 'web-components-library-akshay-test/src/components/Counter';
 
 function App() {
   return (
-    <akshay class="akshay" count="10"></akshay>
+    <my-counter class="akshay" count="10"></my-counter>
   );
 }
 
